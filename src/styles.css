@@ -27,8 +27,7 @@ body {
     transition: 300ms;
 }
 
-.calculator-grid>button:hover,
-.calculator-grid>button:focus {
+.calculator-grid>button:hover {
     background-color: rgba(204, 204, 204, 0.9);
 }
 
